@@ -1,0 +1,11 @@
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\bin\Release\BuilderLocker.exe.config
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\bin\Release\BuilderLocker.exe
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\bin\Release\dnlib.xml
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.csproj.AssemblyReference.cache
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.Properties.Resources.resources
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.csproj.GenerateResource.cache
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.csproj.CoreCompileInputs.cache
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderL.2AD3EC03.Up2Date
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.exe
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.csproj.Fody.CopyLocal.cache
+C:\Users\SQLserver\Desktop\BuilderLocker\BuilderLocker\obj\Release\BuilderLocker.csproj.Fody.RuntimeCopyLocal.cache
